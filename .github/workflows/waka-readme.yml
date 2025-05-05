@@ -1,0 +1,21 @@
+name: Update WakaTime README
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC every day
+    - cron: "0 0 * * *"
+
+jobs:
+  update-wakatime-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+            WAKATIME_API_KEY: "${{ secrets.WAKATIME_API_KEY }}"
+            BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+            TIME_RANGE: "all_time"
+            SHOW_TIME: "true"
+            SHOW_TOTAL: "true"
+            CODE_LANG: "go"
