@@ -16,4 +16,11 @@
 ## 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
+
+```go
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
