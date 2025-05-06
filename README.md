@@ -18,9 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```go
-Total Time: 0 secs
+Total Time: 57 mins
 
-No activity tracked
+Markdown   36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.72 %
+YAML       21 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.28 %
 ```
 
 <!--END_SECTION:waka-->
