@@ -13,7 +13,7 @@
   - Mead Making
   - Camping
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <!--START_SECTION:waka-->
 
@@ -28,3 +28,5 @@ Markdown              1 hr 33 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+<sup><sup>* since May 3, 2025</sup></sup>
