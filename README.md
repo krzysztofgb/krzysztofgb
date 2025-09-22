@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Krzysztof 🖳
 
 - I'm a backend engineer.
-- I work at [Fetch](https://github.com/fetch-rewards).
+- I work at [Circle](https://github.com/circlefin).
 - I'm based out of Chicago.
 - I do most of my work at night.
 - Interests of mine, at the moment:
