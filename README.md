@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krzysztof 🖳
+# 👋 Hi, I'm Krzysztof
 
 - I'm a backend engineer.
 - I work at [Circle](https://github.com/circlefin).
