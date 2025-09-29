@@ -51,5 +51,4 @@ Mac                      8 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 29/09/2025 17:09:09 UTC
 <!--END_SECTION:waka-->
-<sup>* since May 3, 2025</sup>
 </details>
