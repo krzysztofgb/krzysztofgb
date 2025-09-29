@@ -11,7 +11,7 @@ jobs:
   update-wakatime-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@ebb9e39b510045d5044c4453bf4708adcdfbfd8e
         with:
             WAKATIME_API_KEY: "${{ secrets.WAKATIME_API_KEY }}"
             SYMBOL_VERSION: '2'
