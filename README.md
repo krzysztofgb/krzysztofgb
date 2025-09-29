@@ -13,7 +13,6 @@
   - Mead Making
   - Camping
 
-<details>
 <summary>📈 Stats</summary>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -37,4 +36,3 @@ Mac                      8 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 29/09/2025 17:12:54 UTC
 <!--END_SECTION:waka-->
-</details>
