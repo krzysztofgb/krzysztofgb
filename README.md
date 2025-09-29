@@ -13,7 +13,6 @@
   - Mead Making
   - Camping
 
-<summary>📈 Stats</summary>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
