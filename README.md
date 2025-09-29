@@ -16,20 +16,6 @@
 <details>
 <summary>📈 Stats</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2057%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 54.2 kB Used in GitHub's Storage 
- > 
-> 🏆 749 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -49,6 +35,6 @@ Mac                      8 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 29/09/2025 17:09:09 UTC
+ Last Updated on 29/09/2025 17:12:54 UTC
 <!--END_SECTION:waka-->
 </details>
